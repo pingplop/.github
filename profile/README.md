@@ -1,5 +1,5 @@
-<p align="center"><img src="./banner.svg" width="500" alt="Banner"></p>
-<p align="center"><img src="./separator.jpg" width="100%" alt="Separator"></p>
+<p align="center"><img src="https://github.com/pocketcms/.github/blob/main/profile/banner.svg" width="500" alt="Banner"></p>
+<p align="center"><img src="https://github.com/pocketcms/.github/blob/main/profile/separator.jpg" width="100%" alt="Separator"></p>
 
 ## Hi there 👋
 
